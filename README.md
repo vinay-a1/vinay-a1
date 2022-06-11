@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinay-a1
-- 👀 I’m interested in full stack developeer
+- 👀 I’m interested in full stack development
 - 🌱 I’m currently learning Data Structure and Algorithm
 - 💞️ I’m looking to collaborate on Youtube
 - 📫 How to reach me , follow me on instagram @the.vinay03
